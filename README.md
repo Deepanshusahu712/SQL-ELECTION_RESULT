@@ -19,3 +19,14 @@ Other Parties
 Party-wise Seat Distribution: Insights into individual party performances within each alliance.
 
 Winning Candidate Details: Information on winning candidates, their parties, total votes received, and victory margins for specific constituencies.
+Total Seats in Lok Sabha: 543
+
+Seats Won by NDA: 293
+
+Seats Won by I.N.D.I.A: 234
+
+Seats Won by Other Parties: 16
+
+State with Maximum Seats: Uttar Pradesh (80 seats)
+
+State with Minimum Seats: Sikkim, Mizoram, Nagaland, Puducherry, Lakshadweep, Andaman and Nicobar Islands, Dadra and Nagar Haveli and Daman and Diu, Ladakh, Chandigarh, and Delhi (1 seat each)
